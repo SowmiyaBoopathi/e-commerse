@@ -1,2 +1,2 @@
-# e-commerse
-e-commerse website using html and css only 
+# E-commerse-website
+it is made using html and css
